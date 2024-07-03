@@ -20,10 +20,16 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Compile and Hot-Reload for FRONT Development
 
 ```sh
 npm run dev
+```
+
+### Compile and Hot-Reload for BACK Development
+
+```sh
+npm run backend
 ```
 
 ### Type-Check, Compile and Minify for Production
